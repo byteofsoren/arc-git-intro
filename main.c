@@ -2,6 +2,7 @@
 
 int main(int argc, char *argv[])
 {
-    printf("hello arc");
+    printf("Hello arc\n");
+	//en printsats
     return 0;
 }
