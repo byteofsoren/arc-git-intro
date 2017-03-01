@@ -21,6 +21,7 @@
 *.dylib
 
 # Executables
+prog
 *.exe
 *.out
 *.app
@@ -31,3 +32,6 @@
 # Debug files
 *.dSYM/
 *.su
+
+# ycm
+*.py
